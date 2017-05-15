@@ -15,3 +15,7 @@ Provides simple examples for Git training demos.
 This section will be used to describe how to deploy the web app
 
 ## How to Contribute
+
+## Copyright
+
+2014 Git.Training
