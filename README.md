@@ -8,8 +8,10 @@ This is an example to show different part of the Git repository anb various comm
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Provides simple examples for Git training demos.
 
 ## Deployment
+
+This section will be used to describe how to deploy the web app
 
 ## How to Contribute
