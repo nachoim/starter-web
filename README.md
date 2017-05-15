@@ -15,6 +15,7 @@ Provides simple examples for Git training demos.
 This section will be used to describe how to deploy the web app
 
 ## How to Contribute
+Please fork this repository and then issue a Pull Request for review
 
 ## Copyright
 
